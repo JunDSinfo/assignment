@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+tensorflow
+holidays<0.22
+joblib
+prophet
+scikit-learn
+pydantic
